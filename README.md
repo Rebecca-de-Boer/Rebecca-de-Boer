@@ -1,5 +1,11 @@
-## Hey!
+## Hey everyone!
 
+My names Rebecca de Boer!!
+
+This is my first year of coding in the Mother Teresa Computer Science Class!!
+![n4iz2zypyir81](https://github.com/user-attachments/assets/aabbfb5f-3bbc-444f-8708-145837f8eecc)
+
+I'm highkey struggling with my work so if anyone wants to help a fella out my email is **rebecca.de-boer@mths.ca**
 
 
 <!--
