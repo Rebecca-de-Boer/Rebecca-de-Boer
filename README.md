@@ -1,11 +1,35 @@
 ## Hey everyone!
 
-My names Rebecca de Boer!!
+**information**
 
-This is my first year of coding in the Mother Teresa Computer Science Class!!
-![n4iz2zypyir81](https://github.com/user-attachments/assets/aabbfb5f-3bbc-444f-8708-145837f8eecc)
+Name : Rebecca
+
+![name-graphics-rebecca-313470](https://github.com/user-attachments/assets/90a62d10-e5b9-495a-b20c-1e09fc34fba2)
+
+
+Age : 14
+
+Years coding : >1
+
+Course : https://sites.google.com/ocsb.ca/teh-tej2or/home
+
+Pronouns : She / Her / Elle
+
+![187785_099c2](https://github.com/user-attachments/assets/ef83129a-406a-4529-83e4-77efcce63027)
+
 
 I'm highkey struggling with my work so if anyone wants to help a fella out my email is **rebecca.de-boer@mths.ca**
+
+![picgifs-pink-panther-560618](https://github.com/user-attachments/assets/d29149ed-99fa-4e9c-a165-56e3d23dfdc9)
+
+
+**Some facts to get to know me!**
+
+I love sharks
+
+I play 8 sports
+
+I love to 3d Print
 
 
 <!--
